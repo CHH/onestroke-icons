@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg3015"
+   version="1.1"
+   inkscape:version="0.47pre1"
+   sodipodi:docname="message-new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3017">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective3023" />
+    <inkscape:perspective
+       id="perspective3110"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7"
+     inkscape:cx="18.740532"
+     inkscape:cy="21.80324"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3020">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       style="fill:#2e3436;fill-opacity:0.50196078;stroke:none"
+       id="path3590-1"
+       sodipodi:sides="5"
+       sodipodi:cx="26.75"
+       sodipodi:cy="3.625"
+       sodipodi:r1="6.1758184"
+       sodipodi:r2="2.8233259"
+       sodipodi:arg1="0.01229119"
+       sodipodi:arg2="0.64060972"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 32.925352,3.7009062 -3.911803,1.6115516 -0.427451,4.2091072 -2.741491,-3.2223486 -4.135188,0.894155 2.217468,-3.6030726 -2.128235,-3.65648905 4.111961,0.99552736 2.819867,-3.15398951 0.323863,4.2183423 3.871009,1.7072163 z"
+       transform="matrix(-1.1504453,-0.16354477,0.16970324,-1.1938833,69.777761,16.025744)" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
+       d="m 5.872247,11.352335 18.371566,14.12074 17.80009,-14.19348 -36.171656,0.0735 0,-3e-4 c 0,0 0,-4.6e-4 0,-4.6e-4 0,0 0,25.36807 0,25.36807 l 36.255506,0 0,-21.72661"
+       id="path2816-9"
+       sodipodi:nodetypes="cccccsccc"
+       inkscape:export-filename="C:\Users\christoph\Desktop\sprite.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
