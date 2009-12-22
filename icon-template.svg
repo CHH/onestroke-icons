@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="action-foo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective3273"
+       inkscape:persp3d-origin="466.73933 : 250.68013 : 1"
+       inkscape:vp_z="533.32864 : 282.07223 : 1"
+       inkscape:vp_y="1.0959051e-14 : 178.98079 : 0"
+       inkscape:vp_x="400.15002 : 282.07223 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="5.0507627 : 472.64301 : 1"
+       inkscape:vp_y="6.1230318e-14 : 1000 : 0"
+       inkscape:vp_z="749.14524 : 472.64301 : 1"
+       inkscape:persp3d-origin="377.098 : 297.24931 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="175.77573"
+     inkscape:cy="248.36312"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     width="128px"
+     inkscape:window-width="1280"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="action/foo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="plate"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect2384"
+         width="256"
+         height="256"
+         x="25"
+         y="62" />
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect2388"
+         width="48"
+         height="48"
+         x="330"
+         y="62" />
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3275"
+         width="32"
+         height="32"
+         x="330"
+         y="155" />
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3277"
+         width="24"
+         height="24"
+         x="330"
+         y="228" />
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         id="rect3279"
+         width="22"
+         height="22"
+         x="331"
+         y="229" />
+      <rect
+         style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3281"
+         width="16"
+         height="16"
+         x="330"
+         y="286" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="23.798828"
+         y="41.716797"
+         id="text3283"
+         inkscape:label="context"><tspan
+           sodipodi:role="line"
+           id="tspan3285"
+           x="23.798828"
+           y="41.716797">action</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+         x="229.61914"
+         y="41.716797"
+         id="text3287"
+         inkscape:label="icon-name"><tspan
+           sodipodi:role="line"
+           id="tspan3289"
+           x="229.61914"
+           y="41.716797">foo</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-weight:normal;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="23.037109"
+         y="352.83984"
+         id="text3291"><tspan
+           sodipodi:role="line"
+           id="tspan3293"
+           x="23.037109"
+           y="352.83984">How to create an icon:</tspan><tspan
+           sodipodi:role="line"
+           x="23.037109"
+           y="377.83984"
+           id="tspan3295">· draw all the sizes over the gray boxes above</tspan><tspan
+           sodipodi:role="line"
+           x="23.037109"
+           y="402.83984"
+           id="tspan3303">· set context and icon name above</tspan><tspan
+           sodipodi:role="line"
+           x="23.037109"
+           y="427.83984"
+           id="tspan3297">· hide the &quot;plate&quot; layer (do not delete it)</tspan><tspan
+           sodipodi:role="line"
+           x="23.037109"
+           y="452.83984"
+           id="tspan3299">· save the file</tspan><tspan
+           sodipodi:role="line"
+           x="23.037109"
+           y="477.83984"
+           id="tspan3301">· pass it to the slicing script</tspan></text>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3305"
+       sodipodi:cx="152"
+       sodipodi:cy="190"
+       sodipodi:rx="128"
+       sodipodi:ry="128"
+       d="M 280,190 A 128,128 0 1 1 24,190 A 128,128 0 1 1 280,190 z"
+       transform="translate(1,0)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3307"
+       sodipodi:cx="353.86276"
+       sodipodi:cy="86.01236"
+       sodipodi:rx="23.909048"
+       sodipodi:ry="23.909048"
+       d="M 377.77181,86.01236 A 23.909048,23.909048 0 1 1 329.95371,86.01236 A 23.909048,23.909048 0 1 1 377.77181,86.01236 z"
+       transform="matrix(1.0038041,0,0,1.0038041,-1.2088845,-0.3395575)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3309"
+       sodipodi:cx="345.875"
+       sodipodi:cy="171.125"
+       sodipodi:rx="16"
+       sodipodi:ry="16"
+       d="M 361.875,171.125 A 16,16 0 1 1 329.875,171.125 A 16,16 0 1 1 361.875,171.125 z"
+       transform="translate(0.125,-0.125)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3311"
+       sodipodi:cx="341.8125"
+       sodipodi:cy="240.1875"
+       sodipodi:rx="11.0625"
+       sodipodi:ry="11.0625"
+       d="M 352.875,240.1875 A 11.0625,11.0625 0 1 1 330.75,240.1875 A 11.0625,11.0625 0 1 1 352.875,240.1875 z"
+       transform="matrix(0.9943503,0,0,0.9943503,2.1186441,1.1694915)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3313"
+       sodipodi:cx="337.9375"
+       sodipodi:cy="294.0625"
+       sodipodi:rx="7.9375"
+       sodipodi:ry="7.9375"
+       d="M 345.875,294.0625 A 7.9375,7.9375 0 1 1 330,294.0625 A 7.9375,7.9375 0 1 1 345.875,294.0625 z"
+       transform="matrix(1.007874,0,0,1.007874,-2.5984252,-2.3779528)" />
+  </g>
+</svg>
