@@ -9,24 +9,24 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48px"
-   height="48px"
-   id="svg3530"
+   width="32"
+   height="32"
+   id="svg3486"
    version="1.1"
-   inkscape:version="0.46+devel r21627"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="search-2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
-     id="defs3532">
+     id="defs3488">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 24 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="48 : 24 : 1"
        inkscape:persp3d-origin="24 : 16 : 1"
-       id="perspective3538" />
+       id="perspective3494" />
     <inkscape:perspective
-       id="perspective3521"
+       id="perspective3477"
        inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
        inkscape:vp_z="1 : 0.5 : 1"
        inkscape:vp_y="0 : 1000 : 0"
@@ -40,47 +40,46 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7"
-     inkscape:cx="11.571429"
-     inkscape:cy="23.142857"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="29.912356"
+     inkscape:cy="8.1102111"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="738"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3587"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
-     id="metadata3535">
+     id="metadata3491">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-16)">
     <path
-       id="path3790-1"
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196081;stroke-dasharray:none;display:inline"
-       d="m 21.50463,30.147167 -9.51255,11.02394 -3.3686,-2.84928 9.09314,-10.71692 m -2.699744,-8.596195 c 0,6.726739 5.453091,12.179831 12.17983,12.179831 6.726727,0 12.179819,-5.453092 12.179819,-12.179831 0,-6.726727 -5.453092,-12.1798183 -12.179819,-12.1798183 -6.726739,0 -12.17983,5.4530913 -12.17983,12.1798183 z" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#2e3436;stroke-width:4.07424307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       id="path3788-9-1"
-       sodipodi:cx="318.72836"
-       sodipodi:cy="160.52377"
-       sodipodi:rx="10.429825"
-       sodipodi:ry="10.429825"
-       d="m 329.15819,160.52377 a 10.429825,10.429825 0 1 1 -20.85965,0 10.429825,10.429825 0 1 1 20.85965,0 z"
-       transform="matrix(-0.73633302,0,0,0.73633302,261.88692,-99.190238)" />
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 18.050252,20.964824 c 4.32674,0 7.839195,3.492354 7.839195,7.819095 0,4.326742 -3.512455,7.839196 -7.839195,7.839196 -4.326742,0 -7.819096,-3.512454 -7.819096,-7.839196 0,-4.326741 3.492354,-7.819095 7.819096,-7.819095 z M 11.9598,34.311558 14.39196,35.959799 8.2814078,43.035176 6.1105528,41.20603 11.9598,34.311558 z"
+       id="path3788" />
   </g>
 </svg>

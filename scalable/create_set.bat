@@ -5,7 +5,7 @@ cls
 echo Exporting files to 48x48 png images...
 
 if not exist %1\48x48 mkdir %1\48x48
-for %%X in (*.svg) do C:\Inkscape\inkscape.exe -e %1\48x48\%%X.png %1\scalable\%%X
+for %%X in (*.svg) do C:\Inkscape\inkscape.exe  -w 48 -h 48 -e %1\48x48\%%X.png %1\scalable\%%X
 
 echo Done.
 echo Exporting files to 32x32 png images...

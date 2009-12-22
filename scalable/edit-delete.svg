@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48px"
-   height="48px"
+   width="32"
+   height="32"
    id="svg3404"
    version="1.1"
-   inkscape:version="0.46+devel r21627"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="edit-delete.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -40,18 +40,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4748737"
-     inkscape:cx="74.876861"
-     inkscape:cy="4.2017678"
+     inkscape:zoom="14"
+     inkscape:cx="20.127284"
+     inkscape:cy="15.014891"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="738"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2817"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3409">
     <rdf:RDF>
@@ -67,23 +77,27 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-16)">
     <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196081;stroke-dasharray:none"
-       d="m 13.74695,41.103143 20.32931,0 0,-25.29892 4.06587,0 0,-5.46022 -11.60806,0 0,-3.447146 -5.3033,0 0,3.447146 -11.37291,0 0,5.46022 3.88909,0 0,25.29892 z"
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078000000000;stroke-dasharray:none"
+       d="m 9,43 14,0 0,-16 3,0 0,-4 -8,0 0,-2 -4,0 0,2 -8,0 0,4 3,0 0,16 z"
        id="path4237"
        sodipodi:nodetypes="ccccccccccccc" />
     <path
-       style="fill:none;fill-opacity:0.27450980000000003;stroke:#2e3436;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.27450982;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 18.84987,16.658154 0,19.798989"
-       id="path4241" />
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 13,27 0,14"
+       id="path4241"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-opacity:0.27450980000000003;stroke:#2e3436;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.27450982;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       d="m 23.9,16.658154 0,19.798989"
-       id="path4241-6" />
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.27450980000000003;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 16,27 0,14"
+       id="path4241-6"
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.27450982;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       d="m 28.95012,16.658154 0,19.798979"
-       id="path4241-8" />
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 19,27 0,14"
+       id="path4241-8"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

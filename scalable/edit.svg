@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48px"
-   height="48px"
+   width="32"
+   height="32"
    id="svg3364"
    version="1.1"
-   inkscape:version="0.46+devel r21627"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="edit.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -40,18 +40,28 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7"
-     inkscape:cx="3.7142857"
-     inkscape:cy="18.142857"
+     inkscape:zoom="14"
+     inkscape:cx="21.440887"
+     inkscape:cy="14.63894"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="738"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3711"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3369">
     <rdf:RDF>
@@ -67,19 +77,20 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-16)">
     <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196081;stroke-dasharray:none;stroke-dashoffset:0"
-       d="M 31.42647,5.360781 12.57072,33.14506 10.47215,42.63922 18.10388,37.1377 37.52786,9.633752 31.42647,5.360781 z"
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 14,20 0,19 2,5 2,-5 0,-19 -4,0 z"
        id="path3798"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="C:\Users\christoph\Desktop\sprite.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none"
-       d="M 33.12033,9.375022 16.18283,34.000025"
-       id="path3865"
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none"
+       d="m 16,23 0,14"
+       id="path4494"
        sodipodi:nodetypes="cc" />
   </g>
 </svg>

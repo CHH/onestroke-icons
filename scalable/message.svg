@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48px"
-   height="48px"
+   width="32"
+   height="32"
    id="svg2983"
    version="1.1"
-   inkscape:version="0.47pre1"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="message.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -39,6 +39,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5765"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,21 +54,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.5"
-     inkscape:cx="-48.152711"
-     inkscape:cy="19.584642"
+     inkscape:zoom="10.610016"
+     inkscape:cx="7.1527912"
+     inkscape:cy="18.959088"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-bbox="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-global="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
      inkscape:window-width="1280"
-     inkscape:window-height="738"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5061"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2988">
     <rdf:RDF>
@@ -77,14 +93,16 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-16)">
     <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;display:inline"
-       d="m 5.8722468,11.352335 18.3715662,14.12074 17.80009,-14.19348 -36.1716562,0.0735 0,-3e-4 c 0,0 0,-4.6e-4 0,-4.6e-4 0,0 0,25.36807 0,25.36807 l 36.2555062,0 0,-21.72661"
-       id="path2816-9"
-       sodipodi:nodetypes="cccccsccc"
-       inkscape:export-filename="C:\Users\christoph\Desktop\sprite.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none"
+       d="m 4,24 c 8,0 16,0 24,0 0,5.333333 0,10.666667 0,16 -8,0 -16,0 -24,0 0,-5.333333 0,-10.666667 0,-16 4,2.333333 8,4.666667 12,7 4,-2.333581 8,-4.667162 12,-7.000743"
+       id="path5065" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none"
+       d="m 11,34 5,-3 5,3"
+       id="path5581"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>

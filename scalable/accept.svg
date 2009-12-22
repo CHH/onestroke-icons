@@ -13,7 +13,7 @@
    height="48px"
    id="svg3800"
    version="1.1"
-   inkscape:version="0.46+devel r21627"
+   inkscape:version="0.47pre4 r22446"
    sodipodi:docname="accept.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -40,17 +40,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7"
-     inkscape:cx="-6.0714286"
-     inkscape:cy="22.285714"
+     inkscape:zoom="4.9497475"
+     inkscape:cx="35.673439"
+     inkscape:cy="22.803609"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="738"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata3805">
@@ -68,10 +68,19 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
-    <path
-       style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50193045;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-       d="M 6.5,32.518986 17.939526,41.5 41.5,6.5"
-       id="path4081"
-       sodipodi:nodetypes="ccc" />
+    <g
+       id="g3590"
+       transform="translate(0.63419155,-0.09847735)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path4081"
+         d="M 43.347861,8.0071789 18.343587,45.318275 3.3837559,33.78019 8.9408266,26.396011 16.083684,32.181725 35.827556,2.8786797 43.347861,8.0071789 z"
+         style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.50193045;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2814"
+         d="M 8.4285714,31.857143 17.142856,38.714285 37.714286,8.2857143"
+         style="fill:none;stroke:#2e3436;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.2745098;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>
