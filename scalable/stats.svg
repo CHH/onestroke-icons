@@ -405,7 +405,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -471,7 +471,7 @@
            sodipodi:role="line"
            id="tspan3285"
            x="23.798828"
-           y="41.716797">action</tspan></text>
+           y="41.716797">actions</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:20px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
